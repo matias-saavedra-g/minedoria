@@ -1,0 +1,11 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:tick",
+            "conditions": {}
+        }
+    },
+    "rewards": {
+        "function": "dorias:firstjoin"
+    }
+}
